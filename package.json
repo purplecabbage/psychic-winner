@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/purplecabbage/psychic-winner/issues"
   },
-  "homepage": "https://github.com/purplecabbage/psychic-winner#readme"
+  "homepage": "https://github.com/purplecabbage/psychic-winner#readme",
+  "dependencies": {
+    "github-api": "^3.0.0",
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
 }
